@@ -21,8 +21,8 @@ There are also another methods without uploading</br>
 
 ## **References:**
 
-[https://github.com/tensorflow/models/tree/master/official](https://github.com/tensorflow/models/tree/master/official)
-[https://github.com/tensorflow/models/blob/master/research/object\_detection/g3doc/tf1\_detection\_zoo.md](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
-[https://github.com/tensorflow/models/blob/master/research/object\_detection/colab\_tutorials/object\_detection\_tutorial.ipynb](https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb)
+[https://github.com/tensorflow/models/tree/master/official](https://github.com/tensorflow/models/tree/master/official)</br>
+[https://github.com/tensorflow/models/blob/master/research/object\_detection/g3doc/tf1\_detection\_zoo.md](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)</br>
+[https://github.com/tensorflow/models/blob/master/research/object\_detection/colab\_tutorials/object\_detection\_tutorial.ipynb](https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb)</br>
 [https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/auto\_examples/object\_detection\_camera.html#sphx-glr-auto-examples-object-detection-camera-py](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/auto_examples/object_detection_camera.html#sphx-glr-auto-examples-object-detection-camera-py)</br>
 [https://c17hawke.github.io/tfod-setup/p02/](https://c17hawke.github.io/tfod-setup/p02/)
